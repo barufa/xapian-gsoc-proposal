@@ -94,7 +94,7 @@ Background Information
 similar programmes before?  If so, tell us about how it went, and any areas you
 would have liked more help with.**
 
-This is my first time to apply to google summer of code.
+This is my first time to apply to google summer of code and/or Google Code-in.
 
 **Please tell us about any previous experience you have with Xapian, or other
 systems for indexed text search.**
