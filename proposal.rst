@@ -133,7 +133,7 @@ program?**
 
 During coding period Gsoc will be my prior project and I will adapt my schedule to it if it is necessary. I will also be
 attending a course at the university whose workload is 7 hours per week during the months of May and June and an
-English course whose workload is 4 hours per week.
+English course whose workload is 4 hours per week. Moreover, I want that this project take part of the internship program (which is a curricular requirement) of the Computer Science degree that I am pursuing.
 
 **Expected work hours (e.g. Monday–Friday 9am–5pm UTC)**
 
