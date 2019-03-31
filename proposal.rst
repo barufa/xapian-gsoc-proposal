@@ -354,7 +354,7 @@ For the avoidance of doubt this includes all contributions to our wiki, mailing
 lists and documentation, including anything you write in your project's wiki
 pages.
 
-I totally agree with dual-license.
+I totally agree to dual-license all my contributions to Xapian under the GNU GPL version 2 and all later versions, and the MIT/X licence.
 
 .. For more details, including the rationale for this with respect to code,
 .. please see the "Licensing of patches" section in the "HACKING" document:
