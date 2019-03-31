@@ -137,8 +137,6 @@ English course whose workload is 4 hours per week. Moreover, I want that this pr
 
 **Expected work hours (e.g. Monday–Friday 9am–5pm UTC)**
 
-30 hours per–week.
-
 Monday–Saturday 8am–1pm UTC–03
 
 **Are you applying for other projects in GSoC 2019?  If so, with which
