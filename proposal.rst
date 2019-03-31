@@ -283,41 +283,43 @@ Coding Week 3: June 10–June 14:
 Coding Week 4: June 17–June 21:
 
 - Test indexing of documents. Fix issues if any.
-- Add documentation if it is required
+- Add documentation if it is required.
 
 Coding Week 5: June 24–June 28 (evaluations: June 24-28):
 
-- Add support for MS Office 2007 documents
+- Add support for MS Office 2007 documents.
 - Test code.
+- Summit the first evaluation.
 
 Coding Week 6: July 1–July 5:
 
-- Add MS Excel documents reading library
-- Add MS Outlook support
+- Add MS Excel documents reading library.
+- Add MS Outlook support.
 
 Coding Week 7: July 8–July 12:
 
-- Add MS Powerpoint documents reading library
-- Add MS Word documents reading library
+- Add MS Powerpoint documents reading library.
+- Add MS Word documents reading library.
 
 Coding Week 8: July 15–July 19:
 
 - Test indexing of documents. Fix issues if any. 
-- Add documentation if it is required
+- Add documentation if it is required.
 
 Coding Week 9: July 22–July 26 (evaluations: July 22-26):
 
-- Add DjVu files reading library
-- Add support for Markdown files
+- Add DjVu files reading library.
+- Add support for Markdown files.
+- Summit the second evaluation.
 
 Coding Week 10: July 29–August 2:
 
-- Add support for OpenDocument format documents
-- Add support for MS Publisher documents
+- Add support for OpenDocument format documents.
+- Add support for MS Publisher documents.
 
 Coding Week 11: August 5–August 9:
 
-- Add support for OpenOffice/StarOffice documents
+- Add support for OpenOffice/StarOffice documents.
 
 Coding Week 12: August 12–August 16:
 
@@ -328,6 +330,7 @@ Coding Week 13: August 19–August 23 (evaluations: August 19-26):
 
 - Write proper documentation and samples of how to add support for a new file format.
 - Test all code of the project.
+- Summit the final review.
 
 Previous Discussion of your Project
 -----------------------------------
