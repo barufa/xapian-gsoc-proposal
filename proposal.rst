@@ -1,25 +1,25 @@
 .. This document is written in reStructuredText, a simple and unobstrusive
 .. markup language.  For an introductiont to reStructuredText see:
-.. 
+..
 .. http://www.sphinx-doc.org/en/master/rest.html
-.. 
+..
 .. Lines like this which start with `.. ` are comments which won't appear
 .. in the generated output.
-.. 
+..
 .. To apply for a GSoC project with Xapian, please fill in the template below.
 .. Placeholder text for where you're expected to write something says "FILLME"
 .. - search for this in the generated PDF to check you haven't missed anything.
-.. 
+..
 .. See the [wiki:GSoCProjectIdeas ideas list] for some suggested project ideas.
 .. You are also most welcome to propose a project based on your own ideas.
-.. 
+..
 .. From experience the best proposals are ones that are discussed with us and
 .. improved in response to feedback.  You can share draft applications with
 .. us by forking the git repository containing this file, filling in where
 .. it says "FILLME", committing your changes and pushing them to your fork,
 .. then opening a pull request to request us to review your draft proposal.
 .. You can do this even before applications officially open.
-.. 
+..
 .. IMPORTANT: Your application is only valid is you upload a PDF of your
 .. proposal to the GSoC website at https://summerofcode.withgoogle.com/ - you
 .. can generate a PDF of this proposal using "make pdf".  You can update the
@@ -27,7 +27,7 @@
 .. leave it until the last minute to upload a version.  The deadline is
 .. strictly enforced by Google, with no exceptions no matter how creative your
 .. excuse.
-.. 
+..
 .. If there is additional information which we haven't explicitly asked for
 .. which you think is relevant, feel free to include it. For instance, since
 .. work on Xapian often draws on academic research, it's important to cite
@@ -35,26 +35,26 @@
 .. 'algorithm X is considered to perform better than algorithm Y') and to show
 .. which ideas underpin your project, and how you've had to develop them
 .. further to make them practical for Xapian.
-.. 
+..
 .. You're welcome to include diagrams or other images if you think they're
 .. helpful - see http://www.sphinx-doc.org/en/master/rest.html#images for how
 .. to do so.
-.. 
+..
 .. Please take care to address all relevant questions - attention to detail
 .. is important when working with computers!
-.. 
+..
 .. If you have any questions, feel free to come and chat with us on IRC, or
 .. send a mail to the mailing lists.  To answer a very common question, it's
 .. the mentors who between them decide which proposals to accept - Google just
 .. tell us HOW MANY we can accept (and they tell us that AFTER student
 .. applications close).
-.. 
+..
 .. Here are some useful resources if you want some tips on putting together a
 .. good application:
-.. 
+..
 .. "Writing a Proposal" from the GSoC Student Guide:
 .. https://google.github.io/gsocguides/student/writing-a-proposal
-.. 
+..
 .. "How to write a kick-ass proposal for Google Summer of Code":
 .. http://teom.wordpress.com/2012/03/01/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/
 
@@ -146,8 +146,7 @@ organisation(s)?**
 .. we don't have a problem with that, but it's helpful if we're aware of it
 .. so that we know how many backup choices we might need.
 
-Actually I’m thinking about applying for ‘Text-Extraction Libraries’ but I am not sure if I am going to apply to another
-project.
+I am not sure if I am going to apply to another project.
 
 Your Project
 ============
@@ -212,7 +211,7 @@ Project Timeline
 .. week long, or else you won't be able to realistically judge how long
 .. they might take.  Even a week is too long really.  Try to break larger
 .. tasks down into sub-tasks.
-.. 
+..
 .. The timeline helps both you and us to know what you should do next, and how
 .. on track you are.  Your plan certainly isn't set in stone - as you work on
 .. your project, it may become clear that it is better to work on aspects in a
@@ -220,7 +219,7 @@ Project Timeline
 .. scope of the project may need to be adjusted.  If you think that's the
 .. case during the project, it's better to talk to us about it sooner rather
 .. than later.
-.. 
+..
 .. You should strive to break your project down into a series of stages each of
 .. which is in turn divided into the implementation, testing, and documenting of
 .. a part of your project. What we're ideally looking for is for each stage to
@@ -230,10 +229,10 @@ Project Timeline
 .. you've structured your project that way. It also allows us to reliably
 .. determine your progress, and should be more satisfying for you - you'll be
 .. able to see that you've achieved something useful much sooner!
-.. 
+..
 .. Look at the dates in the timeline:
 .. https://summerofcode.withgoogle.com/how-it-works/
-.. 
+..
 .. There are about 3 weeks of "community bonding" after accepted students are
 .. announced.  During this time you should aim to complete any further research
 .. or other issues which need to be done before you can start coding, and to
@@ -242,20 +241,20 @@ Project Timeline
 .. and/or exams in this time, so we certainly aren't expecting full time work
 .. on your project, but you should aim to complete preliminary work such that
 .. you can actually start coding at the start of the coding period.
-.. 
+..
 .. The coding period is broken into three blocks of about 4 weeks each, with
 .. an evaluation after each block.  The evaluations are to help keep you on
 .. track, and consist of brief evaluation forms sent to GSoC by both the
 .. student and the mentor, and a chance to explicitly review how your project
 .. is going with Xapian mentors.
-.. 
+..
 .. If you will have other commitments during the project time (for example,
 .. any university classes or exams, vacations, etc), make sure you include them
 .. in your project timeline.
 
 I opted for a relaxed timeline. While I believe that some weeks have a lower workload, in case of having more time I could move forward with the work of the following week or make some additional contribution (depending on what the mentor deems appropriate). As this is one of the first times I plan a project in this way, I prefer a more relaxed work plan and if you have time during the project try to extend it instead of an overloaded plan with which I can easily have difficulties to complete.
 
-Community Bonding Period: May 6 – May 24:
+**Community Bonding Period: May 6 – May 24:**
 
 - Get to know the community, interact with the people.
 - Read and understand the Xapian code base, get to know all the relevant classes.
@@ -263,72 +262,31 @@ Community Bonding Period: May 6 – May 24:
 - Research about different libraries.
 - Make sure that everything is ready for coding.
 
-Coding Week 1: May 27–May 31:
+**Coding Week 1 (May 27–May 31):**
 
 - Design, implement and get familiar with classes to add the libraries and handle errors.
-- Write proper documentation
+- Write proper documentation.
 
-Coding Week 2: June 3–June 7:
+**Coding Weeks 2-11(June 3-August 9):**
 
-- Add zip files reading library.
-- Test code.
+During this period I will be adding support to the different file formats. Each format is estimated to require between 1 and 2 weeks within which the following activities will be carried out:
 
-Coding Week 3: June 10–June 14:
+- Research about different available libraries (compare them and discuss with the mentor which is the most appropriate).
+- Implement code to add the library to the project.
+- Test code. Fix issues if any.
+- Write proper documentation and publish the changes in the project code.
 
-- Add pdf files reading library.
-- Add PostScript support.
+At the end of each block (2 weeks), the changes applied and which is the next file format will be discussed with the Mentor.
 
-Coding Week 4: June 17–June 21:
+At least 7 formats will be implemented during this time (my personal goal would be to implement at least 10).
 
-- Test indexing of documents. Fix issues if any.
-- Add documentation if it is required.
-
-Coding Week 5: June 24–June 28 (evaluations: June 24-28):
-
-- Add support for MS Office 2007 documents.
-- Test code.
-- Summit the first evaluation.
-
-Coding Week 6: July 1–July 5:
-
-- Add MS Excel documents reading library.
-- Add MS Outlook support.
-
-Coding Week 7: July 8–July 12:
-
-- Add MS Powerpoint documents reading library.
-- Add MS Word documents reading library.
-
-Coding Week 8: July 15–July 19:
-
-- Test indexing of documents. Fix issues if any. 
-- Add documentation if it is required.
-
-Coding Week 9: July 22–July 26 (evaluations: July 22-26):
-
-- Add DjVu files reading library.
-- Add support for Markdown files.
-- Summit the second evaluation.
-
-Coding Week 10: July 29–August 2:
-
-- Add support for OpenDocument format documents.
-- Add support for MS Publisher documents.
-
-Coding Week 11: August 5–August 9:
-
-- Add support for OpenOffice/StarOffice documents.
-
-Coding Week 12: August 12–August 16:
-
-- Test indexing of documents. Fix issues if any. 
-- Add documentation if it is required.
-
-Coding Week 13: August 19–August 23 (evaluations: August 19-26):
+**Coding Week 12 (August 12–August 16):**
 
 - Write proper documentation and samples of how to add support for a new file format.
 - Test all code of the project.
-- Summit the final review.
+- Make changes to the documentation if required.
+
+**A week is left free in case of any delay.**
 
 Previous Discussion of your Project
 -----------------------------------
@@ -367,8 +325,7 @@ Use of Existing Code
 **If you already know about existing code you plan to incorporate or libraries
 you plan to use, please give details.**
 
-I would have to use libraries like Poppler, libe-book, Libmspub amoung others.
-All these libraries belong to free software.
+I would have to use external libraries. These libraries will belong to free software and be under licenses compatible with MIT/X license and GNU GPL version 2 and later.
 
 .. Code reuse is often a desirable thing, but we need to have a clear
 .. provenance for the code in our repository, and to ensure any dependencies
